@@ -5,6 +5,6 @@
 	<title>Home</title>
 </head>
 <body>
-	결과 : ${msg }
+	결과 =>  ${msg }
 </body>
 </html>
